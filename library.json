@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "Book_id": "B-TBAJC",
+            "Title": "Game of thrones",
+            "Author_name": "Mozaffar",
+            "Total_copies": 30,
+            "Available_copies": 30,
+            "added_on": "2026-03-04213512"
+        },
+        {
+            "Book_id": "B-7U48X",
+            "Title": "Commando",
+            "Author_name": "ViDYUT",
+            "Total_copies": 40,
+            "Available_copies": 40,
+            "added_on": "2026-03-04213609"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-A6UDV",
+            "name": "Farhan",
+            "email": "skfarhanislam20@gmail.com",
+            "borrowed": []
+        }
+    ]
+}
