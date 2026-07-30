@@ -1,10 +1,10 @@
-# Library Management System
+# Library Management System yo
 
 A Python-based Library Management System with an interactive Streamlit web interface.
 
 ## About the Project
 
-This project is a Library Management System developed using Python. 
+This project is a Library Management System developed using Python.
 The core library management logic is implemented in `main.py`, while 
 `stream.py` provides a Streamlit-based web interface.
 
